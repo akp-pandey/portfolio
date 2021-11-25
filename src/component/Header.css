@@ -1,0 +1,11 @@
+.navLink:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+
+.navbar{
+    background-color: black;
+}
+Card{
+align-self: center;
+}
