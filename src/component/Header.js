@@ -10,7 +10,7 @@ const Header=()=>{
             <Navbar.Toggle aria-controls="basic-navbar-nav" style={{backgroundColor:"red"}}/>
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
-                    <Nav.Link className="navLink" style={{color:"white",padding:"5px"}} href="/intro">Introduction</Nav.Link>
+                    <Nav.Link className="navLink" style={{color:"white",padding:"5px"}} href="/intro">Home</Nav.Link>
                     <Nav.Link className="navLink" style={{color:"white",padding:"5px"}} href="/experience">Experience</Nav.Link>
                     <Nav.Link className="navLink" style={{color:"white",padding:"5px"}} href="/skills">Skills</Nav.Link>
                     <Nav.Link className="navLink" style={{color:"white",padding:"5px"}} href="/gallery">Gallery</Nav.Link>
