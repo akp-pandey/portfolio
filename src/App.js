@@ -17,7 +17,6 @@ function App() {
       <>
       <Header/>
       <BrowserRouter>
-      <Introduction/>
       <Routes>
         <Route exact path="/" element={<Introduction/>}/>
         <Route exact path="/experience" element={<Experience/>}/>
